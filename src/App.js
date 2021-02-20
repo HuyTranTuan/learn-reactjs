@@ -9,6 +9,9 @@ function App() {
         <p>
           Huy dep trai vcl!
         </p>
+        <p>
+          Nói gì nữa đi con đĩ!
+        </p>
       </header>
     </div>
   );
